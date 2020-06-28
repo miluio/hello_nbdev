@@ -1,5 +1,5 @@
 # nb_dev
-> Summary description here.
+> First take on `nb_dev` package building workflow
 
 
 This file will become your README and also the index of your documentation.
